@@ -1,0 +1,22 @@
+body {
+	background-image: url("Background.jpg");
+	background-repeat: no-repeat;
+	background-size: 150%;
+} 
+body h1 {
+	font-style: oblique;
+	font-weight: bolder;
+	color: #270F95;
+	}
+div ul li{
+	float:left;
+	margin-left: 110px;
+	margin-right: 110px;
+	color: #270F95;
+}
+
+#intro p
+{
+	text-align: center;
+	color: #270F95;
+}

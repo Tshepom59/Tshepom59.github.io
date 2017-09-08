@@ -1,0 +1,70 @@
+body {
+	background-image: url("Background.jpg");
+	background-repeat: no-repeat;
+	background-size: 150%;
+} 
+body h1 {
+	font-style: oblique;
+	font-weight: bolder;
+	color: #270F95;
+	}
+div ul li{
+	float:left;
+	margin-left: 110px;
+	margin-right: 110px;
+	color: #270F95;
+}
+#story{
+	clear: both;
+}
+#intro p
+{
+	text-align: center;
+	color: #270F95;
+}
+form section{
+	float: left;
+	margin-right: 100px
+}
+#quiz{
+	clear: both;
+}
+section{
+	clear: both;
+}
+footer{
+	margin-top: 100px;
+	position: relative;left: 20px;
+}
+.links a{
+	text-decoration: none;
+}
+.links {
+	text-align: center;
+}
+.links li{
+	display: block;
+}
+.favourites{
+	clear: both;
+}
+.footer: hover {
+	size: 100px;
+	margin-right: 200%;
+	height: 10px;
+	width: auto;
+}
+.links: hover{
+	size: 100px;
+	margin-right: 200%;
+	height: 10px;
+	width: auto;
+}
+#table{
+	size: 100px
+	margin-top: 200%;
+	mask-type: 100%
+}
+.image{
+	float: left;
+}
