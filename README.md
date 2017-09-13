@@ -1,4 +1,4 @@
-# Tshepo Creates a RAEDME
+# Tshepo Creates a README
  
  **I am slowly but surely getting the hang of programming, python is still a real issue though, in the web space. I am afforded a year to get myself to an acceptable level of programming, the following is a list of things I want to have done by the end of the year**
 
